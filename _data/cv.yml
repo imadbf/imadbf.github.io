@@ -2,12 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Imade Bouftini
     - name: Date of Birth
-      value: 14th March 1879
+      value: 18th January 2004
     - name: Languages
-      value: English, German
-
+      value: Arabic, French, English, Chinese.
 - title: Education
   type: time_table
   contents:
